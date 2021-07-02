@@ -17,5 +17,5 @@ Proposal of meaningful views leveraging on JOINs and Aggregations.
 
 
 
-**file named full_script includes every piece of code of the project.
-Other sql scripts are just a breakdown of the full one.
+**file named full_script includes every piece of code used for the project.
+Other sql scripts are just breakdowns of the full one.
